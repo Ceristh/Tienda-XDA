@@ -1,6 +1,6 @@
 // # Botones
 
-.btn {
+.button {
     font-size: $small;
     font-weight: $bold;
     border: 1px solid transparent;
@@ -24,7 +24,7 @@
 }
 
 @media only screen and (min-width: 576px) {
-    .btn {
+    .button {
         font-size: $medium;
         padding: 1rem 1.8rem;
     }
