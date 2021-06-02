@@ -6,7 +6,11 @@
 //base
 @import 'base/typography';
 
+//components
+@import 'components/buttons';
+
 //layout
 @import 'layout/grid';
 @import 'layout/header';
 @import 'layout/navigation';
+@import 'layout/footer';
